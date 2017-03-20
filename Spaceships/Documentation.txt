@@ -1,0 +1,28 @@
+﻿Connor McAuliffe
+IGME 202 Section 1
+
+Spaceships! Homework Project
+
+Description:
+A spaceship cannot seem to get away from these asteroids. Help it get away! (You can't)
+You play as a spaceship that is haunted by the presence of 10 asteroids in the wonderful scene
+of a poorly designed space background. You can shoot at them but it does nothing. 
+
+List of user functionality:
+Use either WASD or the arrow keys to control the ship
+A and D or Left and Right turn the ship
+W or Up makes the ship go forward
+D or Down applies brakes to the ship, letting it stop very quickly
+
+You can also left click to shoot a particle beam at the asteroids (but it doesn't do anything)
+
+Reasoning behind design choices:
+I chose to do two different shapes for the background because using only 1 made it feel too empty. It was going
+	to update and move but it looked way too caotic so I left the code in but did not call it. 
+As for the extra part, I added the functionality to shoot because that seemed relatively easy. I wasn't sure how
+	to handle deleting asteroids so I did not have it do that. 
+
+Asset Sources:
+http://www.inthebreeze.com/prod-38-1-2358-297/x-wing-fighter-supersize-limited-edition-kite.htm
+https://github.com/GarageGames/Torque2D/wiki/Getting-Started-Guide (its on there I promise)
+

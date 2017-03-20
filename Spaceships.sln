@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spaceships", "Spaceships\Spaceships.csproj", "{6075F660-4618-475F-B081-E31315E412F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{70FBC86D-DC66-432B-B0D1-0B0FEE975C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6075F660-4618-475F-B081-E31315E412F2}.Debug|x86.ActiveCfg = Debug|x86
+		{6075F660-4618-475F-B081-E31315E412F2}.Debug|x86.Build.0 = Debug|x86
+		{6075F660-4618-475F-B081-E31315E412F2}.Release|x86.ActiveCfg = Release|x86
+		{6075F660-4618-475F-B081-E31315E412F2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
